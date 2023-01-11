@@ -1,46 +1,50 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ <div align="center">
+  <h1>Bem Vindos(as)!!</h1>
+  <strong>Ligação a api em TypeScript</strong>
+</div>
+<br>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+<img src="./print.PNG" alt="daily.dev" height="250">
+    
+</div>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ✌️ Ligação a api em TypeScript * Evitar renderizações
+<strong> Fazer funcionar é fácil, mas é o suficiente? Acredito que não. Então tenho focado em como fazer melhor. Sabemos que uma das vantagens do react são as renderizações mas tudo que é demais atrapalha. Aqui temos um modelo simples de ligação a api com o retorno de uma listagem de repositórios do github e um campo de pesquisa. Onde eu utilizo o useEffect duas vezes, o que irá renderizar duas vezes, no segundo exemplo eu troco o useEffect por uma const, o que evita uma renderização e causa o mesmo efeito. Resumindo temos dois resultados iguais com uma renderização a menos. O que isso pode impactar em uma grande aplicação? 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🎨 Frontend
 
-### `npm run build`
+*  **Frontend**: ReactJS, Typescript com Visual Studio Code 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🙌 Quer Contribuir?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Que tal:
+* 🤔 Sugira um recurso
+* 🐛 Informar um problema
+* 📖 Melhore a documentação
+* 👨‍💻 Contribua com o código
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Você é mais que bem vindo! 
 
-## Learn More
+Obs: Todos os textos e imagens atuais são ficticios, projeto não concluso.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+<div align="center">
+    <h6>Feito com ❤️ by DebsLorena</h6>
+    <a href="https://www.linkedin.com/in/loredebs/"><strong>Linkedin</strong></a></br>
+    <a href="https://www.instagram.com/debslorena/"><strong>Instagram</strong></a>
+</div>
+
+
+
